@@ -4,7 +4,7 @@ An end-to-end data analytics project on 32,671 global data/tech job postings fro
 
 
 
-<img src="job_market_dashboard.png" alt="Global Data & Tech Job Market Analysis Dashboard" width="100%">
+<img src="![Uploading Screenshot 2026-09-16 005414.png…]()" alt="Global Data & Tech Job Market Analysis Dashboard" width="100%">
 
 📌 Project Overview
 
