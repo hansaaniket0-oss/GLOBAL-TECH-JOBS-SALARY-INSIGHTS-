@@ -1,10 +1,7 @@
 Global Data & Tech Job Market Analysis (2023)
 
 An end-to-end data analytics project on 32,671 global data/tech job postings from 2023 — cleaned and transformed with pandas, modeled and visualized in an interactive Power BI dashboard.
-
 ![Global Data & Tech Job Market Analysis Dashboard](https://github.com/user-attachments/assets/a336e303-5c5a-48e9-bb60-46febd15395e)
-
-
 
 📌 Project Overview
 
